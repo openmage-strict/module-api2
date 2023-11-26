@@ -1,6 +1,6 @@
 # Module `Mage_Api2`
 
-An OpenMage core module.
+An [OpenMage][1] core module.
 
 ## Install
 
@@ -8,3 +8,4 @@ An OpenMage core module.
 composer require openmage-strict/module-api2
 ```
 
+[1]: https://github.com/OpenMage/magento-lts
