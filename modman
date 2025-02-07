@@ -1,5 +1,0 @@
-src/app/code/core/Mage/Api2/                                     app/code/core/Mage/Api2/
-src/app/design/adminhtml/default/default/layout/api2.xml         app/design/adminhtml/default/default/layout/api2.xml
-src/app/design/adminhtml/default/default/template/api2/          app/design/adminhtml/default/default/template/api2/
-src/app/etc/modules/Mage_Api2.xml                                app/etc/modules/Mage_Api2.xml
-src/app/locale/en_US/Mage_Api2.csv                               app/locale/en_US/Mage_Api2.csv
