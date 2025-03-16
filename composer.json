@@ -6,6 +6,13 @@
     "require": {
         "magento-hackathon/magento-composer-installer": "*",
         "openmage-strict/module-core": "^120.2",
-        "openmage-strict/module-oauth": "^120.2"
+        "openmage-strict/module-oauth": "^120.2",
+        "zf1s/zend-acl": "*",
+        "zf1s/zend-config": "*",
+        "zf1s/zend-controller": "*",
+        "zf1s/zend-db": "*",
+        "zf1s/zend-json": "*",
+        "zf1s/zend-uri": "*",
+        "zf1s/zend-validate": "*"
     }
 }
